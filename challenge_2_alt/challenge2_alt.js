@@ -28,6 +28,9 @@
  *   and how to use it in JS. You will also need to download a sound bite
  */
 
+ var shootButtonOne
+ var shootButtonTwo
+
  $(function(){
 
 
